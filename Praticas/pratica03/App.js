@@ -7,7 +7,7 @@ function App() {
   return <ListScreen />;
   return <GalleryScreen />;
   return <HomeScreeen />;
-  return <ProfileScreen />;
+  return <ProfileScreen />;""
 }
 
 export default App;
