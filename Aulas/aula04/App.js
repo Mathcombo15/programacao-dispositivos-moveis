@@ -4,7 +4,7 @@ import ContactScreen from "./screens/ContactScreen";
 
 function App() {
   return <SafeAreaProvider>
-    <ContactScreen />
+    <LoginScreen />
   </SafeAreaProvider>
 }
 
